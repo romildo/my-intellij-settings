@@ -1,0 +1,10 @@
+<inspections profile_name="Default" version="1.0">
+  <option name="myName" value="Default" />
+  <option name="myLocal" value="true" />
+  <inspection_tool class="LocalCanBeFinal" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REPORT_VARIABLES" value="true" />
+    <option name="REPORT_PARAMETERS" value="false" />
+    <option name="REPORT_CATCH_PARAMETERS" value="false" />
+    <option name="REPORT_FOREACH_PARAMETERS" value="false" />
+  </inspection_tool>
+</inspections>
