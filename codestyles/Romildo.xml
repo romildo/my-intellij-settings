@@ -3,6 +3,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
       <option name="CONTINUATION_INDENT_SIZE" value="3" />
