@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/home/romildo/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/nix/store/3cljngf65r81mcyi4y4klnl5gpply7ai-idea-ultimate-2018.2.4/idea-ultimate-2018.2.4/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/nix/store/az9d9z4dcia84q84dwzg924ghp6v3fm4-idea-ultimate-2018.2.4/idea-ultimate-2018.2.4/plugins/Kotlin/kotlinc" />
   </component>
 </application>
