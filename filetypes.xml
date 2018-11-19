@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="torben" type="PLAIN_TEXT" />
       <mapping ext="prg" type="PLAIN_TEXT" />
+      <mapping ext="picnic" type="PLAIN_TEXT" />
       <mapping ext="jflex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
